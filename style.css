@@ -1,0 +1,101 @@
+body{
+    background-color: black;
+    font-family:'Poppins', sans-serif ;
+    margin: 0;
+    padding: 0;
+    line-height: 1.4;
+    color: white;
+}
+
+.page1 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 4%;
+}
+.First-Welcome-mssg {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5% 0 0 5%;
+}
+
+.butt1 {
+    width: 100%;
+    margin:4% 0 0 30% ;
+    font-family: 'Poppins', sans-serif;
+}
+
+.first-button {
+    background-color: white;
+    color:#483F3F ;
+    padding: 30px 50px 30px 50px ;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 20px;
+
+}
+/* Second Page*/
+.page2 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 4%;
+}
+.headd2 {
+    font-size:35px;
+    font-weight: bold;
+    margin: 5% 0 0 10%;
+    padding-left: 20%;
+}
+
+.enter {
+    font-size: 18px;
+}
+
+.detail {
+    margin: 1%;
+    padding: 0 0 0 29%;
+}
+.inn {
+    display: block;
+    margin: 1% 0 5% 0%;
+    padding: 2%;
+    width: 60%;
+    border: none;
+    border-radius: 15px;
+}
+.butt2 {
+    padding-left: 25%;
+    
+}
+.buttt2 {
+    padding: 15px;
+    border-radius: 10px;
+    color:#483F3F ;
+    font-family: 'Poppins', sans-serif;
+}
+/** Third Page */
+.page3 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 4%;
+}
+.headd3 {
+    font-size:35px;
+    font-weight: bold;
+    margin: 5% 0 0 10%;
+    padding-left: 20%;
+}
+.para {
+    margin: 1% 0 0 0;
+}
+.details {
+    padding: 0 0 0 29%;
+    font-size: 18px;   
+}
+.buttt3 {
+    padding: 10px 20px 10px 20px;
+    border-radius: 10px;
+    margin: 0 0 0 30%;
+    color:#483F3F ;
+    font-family: 'Poppins', sans-serif;
+}
