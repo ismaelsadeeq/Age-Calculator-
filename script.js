@@ -29,6 +29,10 @@ function result(){
     
     name = document.getElementById("name").value;
     age = document.getElementById("age").value;
+    if (name == "" || age ==""){
+        alert("Please you must fill all fields");
+       
+    }
     let name1 = document.getElementById("namee");
     name1.textContent = name;
     let age1 = document.getElementById("agee");
