@@ -17,7 +17,7 @@ It is a one page app
 ## The prototype of the app
 ![the_picture_preview_of_myage_calculator.](cal.png "This is the age calculator prototype.")
 ![the_picture_preview_of_myage_calculator.](cal2.png "This is the age calculator prototype.")
-![the_picture_preview_of_myage_calculator.](cal3.png "This is the age calculator prototype.")
+
 
 ## Developed with
 HTML,CSS and JavaScript
