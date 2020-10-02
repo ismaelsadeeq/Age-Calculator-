@@ -73,6 +73,9 @@ body{
     color:#483F3F ;
     font-family: 'Poppins', sans-serif;
 }
+.hidden {
+    display: none;
+}
 /** Third Page */
 .page3 {
     display: flex;
@@ -98,4 +101,7 @@ body{
     margin: 0 0 0 30%;
     color:#483F3F ;
     font-family: 'Poppins', sans-serif;
+}
+.dont-show {
+    display: none;
 }
