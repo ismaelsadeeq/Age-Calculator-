@@ -21,6 +21,6 @@ It is a one page app
 
 ## Developed with
 HTML,CSS and JavaScript
-# Tools uses
+# Editor used
 Vscode
 
