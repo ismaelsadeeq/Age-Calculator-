@@ -13,7 +13,31 @@ button1.addEventListener("click", function(){
 })
 
 button2.addEventListener("click", function(){
-    page3.classList.remove("dont-show");
+		
+	//function result(){
+    var name = "";
+    var age = "";
+    
+    name = document.getElementById("name").value;
+    age = document.getElementById("age").value;
+    if (name == "" || age ==""){
+        alert("Please you must fill all fields");
+       return;
+    }else{
+        let name1 = document.getElementById("namee");
+        name1.textContent = name;
+        let age1 = document.getElementById("agee");
+        age1.textContent = age;
+        let ageindayss;
+        ageindayss = age * 365;
+        ageindayss1 = document.getElementById("days");
+        ageindayss1.textContent =ageindayss;
+    }
+    
+    
+//}
+
+		page3.classList.remove("dont-show");
     page2.classList.add("dont-show");
 })
 
@@ -23,26 +47,6 @@ butt2.addEventListener("click", function(){
     window.location.reload();
 })
 
-function result(){
-    var name = "";
-    var age = "";
-    
-    name = document.getElementById("name").value;
-    age = document.getElementById("age").value;
-    if (name == "" || age ==""){
-        alert("Please you must fill all fields");
-       
-    }
-    let name1 = document.getElementById("namee");
-    name1.textContent = name;
-    let age1 = document.getElementById("agee");
-    age1.textContent = age;
-    let ageindayss;
-    ageindayss = age * 365;
-    ageindayss1 = document.getElementById("days");
-    ageindayss1.textContent =ageindayss;
-    
-}
 
 
 
