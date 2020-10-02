@@ -36,7 +36,7 @@ function result(){
     let name1 = document.getElementById("namee");
     name1.textContent = name;
     let age1 = document.getElementById("agee");
-    age1.textContent= age;
+    age1.textContent = age;
     let ageindayss;
     ageindayss = age * 365;
     ageindayss1 = document.getElementById("days");
