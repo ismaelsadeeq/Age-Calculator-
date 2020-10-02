@@ -15,7 +15,7 @@ It is a one page app
   * display the number of days lived
 
 ## Images
-
+The prototype of the app
 ![the_picture_preview_of_myage_calculator.](cal.png "This is the age calculator prototype.")
 ![the_picture_preview_of_myage_calculator.](cal2.png "This is the age calculator prototype.")
 ![the_picture_preview_of_myage_calculator.](cal3.png "This is the age calculator prototype.")
