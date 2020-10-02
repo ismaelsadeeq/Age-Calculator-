@@ -14,7 +14,6 @@ button1.addEventListener("click", function(){
 
 button2.addEventListener("click", function(){
 		
-	//function result(){
     var name = "";
     var age = "";
     
@@ -33,9 +32,6 @@ button2.addEventListener("click", function(){
         ageindayss1 = document.getElementById("days");
         ageindayss1.textContent =ageindayss;
     }
-    
-    
-//}
 
 		page3.classList.remove("dont-show");
     page2.classList.add("dont-show");
