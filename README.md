@@ -9,7 +9,7 @@ It is a one page app
 ### Features
 
 * collect user name
-* collect user data
+* collect user age
   * display the user name and age
   * calculate the number of days lived
   * display the number of days lived
