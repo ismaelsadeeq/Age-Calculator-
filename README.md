@@ -1,18 +1,18 @@
 # Age-Calculator-
-An age Calculator that will get your name Age and calculate the number of Days you lived on Earth
+An age Calculator that will get your name and age and then calculate the number of Days you lived on Earth
 ## Author 
 Ismail Sadiq
 ## Live demo
-[See project live here] (https://raw.githack.com/ismaelsadeeq/Sign-Up-project/master/index.html)
+[See project live here](https://raw.githack.com/ismaelsadeeq/Sign-Up-project/master/index.html)
 
 ## Functionalities
 It is a one page app
 
 ### Features
 
-* collect user name
-* collect user age
-  * display the user name and age
+* collect user's name
+* collect user's age
+  * display the user's name and age
   * calculate the number of days lived
   * display the number of days lived
 
